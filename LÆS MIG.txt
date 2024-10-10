@@ -1,0 +1,2 @@
+For at se hjemmesiden r det bare at åbne index.html
+i en webbrowser og hvis det ikke virker så besøg:
